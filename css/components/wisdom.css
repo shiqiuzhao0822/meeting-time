@@ -1,0 +1,16 @@
+.wisdom{
+	background-color: rgb(157,199,223);
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin: 10px;
+	flex-basis: 300px;
+	flex-grow: 1
+}
+
+.wisdom h2{
+	align-items: center;
+}
